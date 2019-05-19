@@ -140,7 +140,7 @@ show()
 
 **显示结果**：
 
-![]()
+![](https://github.com/zengqq1997/PCVch08/blob/master/result１.jpg)
 
 ### DSIFT
 
@@ -208,7 +208,7 @@ show()
 
 **显示结果**：
 
-![]()
+![](https://github.com/zengqq1997/PCVch08/blob/master/result２.jpg)
 
 ### 手势识别
 
@@ -249,7 +249,7 @@ show()
 
 **显示结果**：
 
-![]()
+![](https://github.com/zengqq1997/PCVch08/blob/master/result３.jpg)
 
 接下来我们可以读取我们刚才准备好的训练数据集、测试数据集来进行特征的标定
 
@@ -327,7 +327,7 @@ print_confusion(res,test_labels,classnames)
 
 **显示结果**：
 
-![]()
+![](https://github.com/zengqq1997/PCVch08/blob/master/result４.jpg)
 
 如图显示正确率为１，目前混淆矩阵并没有经常混淆的类
 
